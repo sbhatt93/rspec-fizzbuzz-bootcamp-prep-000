@@ -20,5 +20,3 @@ RSpec.configure do |config|
   config.order = 'default'
 end
 
-require_relative './spec_helper.rb'
-require_relative '../fizzbuzz.rb'
